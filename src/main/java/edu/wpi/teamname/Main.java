@@ -21,6 +21,9 @@ public class Main {
   public void printBranchAL() {
     System.out.println("Branch - Anthony LoPresti");
   }
+  public void bryan_branch() {
+    System.out.println("Branch - Bryan Gass");
+  }
 
 
 
